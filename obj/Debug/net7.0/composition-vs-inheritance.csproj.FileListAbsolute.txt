@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\composition-vs-inheritance\bin\Debug\net7.0\composition-vs-inheritance.exe
+C:\Users\kevin\source\repos\composition-vs-inheritance\bin\Debug\net7.0\composition-vs-inheritance.deps.json
+C:\Users\kevin\source\repos\composition-vs-inheritance\bin\Debug\net7.0\composition-vs-inheritance.runtimeconfig.json
+C:\Users\kevin\source\repos\composition-vs-inheritance\bin\Debug\net7.0\composition-vs-inheritance.dll
+C:\Users\kevin\source\repos\composition-vs-inheritance\bin\Debug\net7.0\composition-vs-inheritance.pdb
+C:\Users\kevin\source\repos\composition-vs-inheritance\obj\Debug\net7.0\composition-vs-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\composition-vs-inheritance\obj\Debug\net7.0\composition-vs-inheritance.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\composition-vs-inheritance\obj\Debug\net7.0\composition-vs-inheritance.AssemblyInfo.cs
+C:\Users\kevin\source\repos\composition-vs-inheritance\obj\Debug\net7.0\composition-vs-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\composition-vs-inheritance\obj\Debug\net7.0\composition-vs-inheritance.dll
+C:\Users\kevin\source\repos\composition-vs-inheritance\obj\Debug\net7.0\refint\composition-vs-inheritance.dll
+C:\Users\kevin\source\repos\composition-vs-inheritance\obj\Debug\net7.0\composition-vs-inheritance.pdb
+C:\Users\kevin\source\repos\composition-vs-inheritance\obj\Debug\net7.0\composition-vs-inheritance.genruntimeconfig.cache
+C:\Users\kevin\source\repos\composition-vs-inheritance\obj\Debug\net7.0\ref\composition-vs-inheritance.dll
