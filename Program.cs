@@ -5,3 +5,6 @@ Console.WriteLine("Hello, World!");
 User user = new User("jenseneducation.k.vikander", "kevin.vikander@gmail.com");
 
 Student student = new Student("jenseneducation.k.vikander", "kv@mail.com", "sys23m");
+
+Teacher teacher = new Teacher("jenseneducation.m.noltorp", "manuel@nodehill.com");
+

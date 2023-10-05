@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace composition_vs_inheritance;
-
-public class Admin : User
+namespace composition_vs_inheritance
 {
-    public Admin(string username, string email) : base(username, email)
+    internal class Admin
     {
-
     }
 }
